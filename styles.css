@@ -1,0 +1,48 @@
+.body{
+  border: solid black;
+}
+.footer{
+  text-align: center;
+}
+.footer li{
+  display: inline-flex;
+  font-size: medium;
+  margin: 1px;
+  
+}
+.footer ul{
+  background-color: green;
+  height: 20px;
+  padding: 15px;
+  position: relative;
+  text-decoration: none;
+  padding-bottom: none;
+}
+.header li{
+  display: inline-flex;
+  text-align: right;
+  padding: 0px;
+  font-size: 15px;
+}
+.header{
+ text-align: center;
+ 
+}
+.form{
+  text-align: center;
+}
+.form1 input{
+  height: 20px;
+  border-radius: 90px ;
+}
+.form form{
+  padding: 2px;
+}
+.form1 button{
+  border-radius: 90px;
+  width: 150px;
+  height: 20px;
+}
+.con{
+  border: solid black;
+}
